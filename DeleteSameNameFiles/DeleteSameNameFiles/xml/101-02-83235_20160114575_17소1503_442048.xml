@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>101-02-83235_20160114575_17소1503_442048.jpg</filename>
+	<path>C:\Users\agileSODA\Desktop\5\101-02-83235_20160114575_17소1503_442048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>117</ymin>
+			<xmax>299</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

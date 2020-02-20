@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0904</folder>
+	<filename>105-07-13944_20110123834_36오1305_39136.jpg</filename>
+	<path>C:\Users\agileSODA\Desktop\0904\105-07-13944_20110123834_36오1305_39136.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>572</xmin>
+			<ymin>357</ymin>
+			<xmax>585</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

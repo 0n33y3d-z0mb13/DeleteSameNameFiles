@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ing</folder>
+	<filename>101-05-16101_20160822309_59더9316_77462.jpg</filename>
+	<path>C:\Users\agilesoda\Desktop\190906_손상박스라벨링\images\ing\101-05-16101_20160822309_59더9316_77462.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>96</ymin>
+			<xmax>480</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ing</folder>
+	<filename>105-19-40352_20130707321_69서7934_81979.jpg</filename>
+	<path>C:\Users\agilesoda\Desktop\190906_손상박스라벨링\images\ing\105-19-40352_20130707321_69서7934_81979.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>363</ymin>
+			<xmax>432</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

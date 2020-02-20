@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ing</folder>
+	<filename>101-40-91659_20180617368_0788_35729.jpg</filename>
+	<path>C:\Users\agilesoda\Desktop\190906_손상박스라벨링\images\ing\101-40-91659_20180617368_0788_35729.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent_press</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>217</ymin>
+			<xmax>399</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

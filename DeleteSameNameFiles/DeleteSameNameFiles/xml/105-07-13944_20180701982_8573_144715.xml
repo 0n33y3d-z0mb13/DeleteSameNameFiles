@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>105-07-13944_20180701982_8573_144715.jpg</filename>
+	<path>C:\Users\agileSODA\Desktop\5\105-07-13944_20180701982_8573_144715.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>broken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>145</ymin>
+			<xmax>689</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

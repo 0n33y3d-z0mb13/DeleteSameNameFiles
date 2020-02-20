@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ing</folder>
+	<filename>105-39-17621_20170111636_2777_304212.jpg</filename>
+	<path>C:\Users\agilesoda\Desktop\190906_손상박스라벨링\images\ing\105-39-17621_20170111636_2777_304212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>397</ymin>
+			<xmax>296</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

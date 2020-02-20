@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100</folder>
+	<filename>101-02-83235_20111007796_07모5061_116519.jpg</filename>
+	<path>C:\Users\agilesoda\Desktop\손상박스\2. 190903_front_fender_손상박스_원본\3\100\101-02-83235_20111007796_07모5061_116519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>417</ymin>
+			<xmax>334</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100</folder>
+	<filename>105-07-13944_20121114784_07모5103_64750.jpg</filename>
+	<path>C:\Users\agilesoda\Desktop\손상박스\2. 190903_front_fender_손상박스_원본\3\100\105-07-13944_20121114784_07모5103_64750.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>271</ymin>
+			<xmax>301</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

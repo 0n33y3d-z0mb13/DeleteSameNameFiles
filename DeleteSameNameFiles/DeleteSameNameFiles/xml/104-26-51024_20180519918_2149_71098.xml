@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100</folder>
+	<filename>104-26-51024_20180519918_2149_71098.jpg</filename>
+	<path>C:\Users\agilesoda\Desktop\손상박스\2. 190903_front_fender_손상박스_원본\3\100\104-26-51024_20180519918_2149_71098.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>457</xmin>
+			<ymin>356</ymin>
+			<xmax>528</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

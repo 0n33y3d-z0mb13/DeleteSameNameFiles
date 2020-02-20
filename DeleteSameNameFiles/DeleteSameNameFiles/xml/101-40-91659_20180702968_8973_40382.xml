@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100</folder>
+	<filename>101-40-91659_20180702968_8973_40382.jpg</filename>
+	<path>C:\Users\agilesoda\Desktop\손상박스\2. 190903_front_fender_손상박스_원본\3\100\101-40-91659_20180702968_8973_40382.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent_press</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>265</ymin>
+			<xmax>308</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>
